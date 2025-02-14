@@ -54,12 +54,6 @@ This release introduces a **Secure Telegram Trading Bot**, designed to facilitat
   ```
   BUY EURUSD SL=1.1200 TP=1.1300
   ```
-
-### Future Improvements
-- **Multi-user authentication system**
-- **Enhanced signal parsing with validation**
-- **Trade monitoring and analytics dashboard**
-
 ### Contributors
 - **@da-Korede**
 - **@Contractor-x** 
