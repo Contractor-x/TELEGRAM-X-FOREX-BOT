@@ -25,7 +25,7 @@ This release introduces a **Secure Telegram Trading Bot**, designed to facilitat
 1. Clone the repository:
    ```bash
    https://github.com/Contractor-x/TELEGRAM-X-FOREX-BOT.git
-   cd <repository-name>
+   cd TELEGRAM-X-FOREX-BOT
    ```
 2. Install dependencies:
    ```bash
