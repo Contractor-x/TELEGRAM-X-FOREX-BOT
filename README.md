@@ -1,5 +1,5 @@
 # Release Notes - Secure Telegram Trading Bot.
-12345
+123456
 ## Version 2.0.0
 
 ### Description
