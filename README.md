@@ -58,7 +58,7 @@ This release introduces a **Secure Telegram Trading Bot**, designed to facilitat
 - **@da-Korede**
 - **@Contractor-x** 
 
-      if 
+      if you 
 
 ### License
 This project is licensed under **MIT License**.
