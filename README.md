@@ -58,7 +58,7 @@ This release introduces a **Secure Telegram Trading Bot**, designed to facilitat
 - **@da-Korede**
 - **@Contractor-x** 
 
-      if you wanna contribute kindly fork and create a pull
+      if you wanna contribute kindly fork and create a pull request
 
 ### License
 This project is licensed under **MIT License**.
